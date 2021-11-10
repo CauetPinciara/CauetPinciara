@@ -1,7 +1,7 @@
-## Oi! Eu sou o Cauet, em busca de resolver muitos problemas com ajuda da técnologia!
+## Oi! Eu sou o Cauet, organização e processos são a chave para o sucesso!
 <div align="center">
   <a href="https://github.com/cauetpinciara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauetpinciara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cauetpinciara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauetpinciara&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" ><br>
